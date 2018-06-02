@@ -4,8 +4,8 @@ Title: PowerPoint examples and templates
 Version: 0.1.0
 Author: Nathan Stephens
 Maintainer: Nathan Stephens <nathan@rstudio.com>
-Description: Use these templates to get started with rendering R Markdown
-  to PowerPoint
-License: MIT
+Description: Use these templates to get started with rendering R Markdown to PowerPoint.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: rmarkdown

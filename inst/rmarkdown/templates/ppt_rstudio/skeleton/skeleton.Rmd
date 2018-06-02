@@ -2,9 +2,7 @@
 title: "Untitled"
 author: "Nathan"
 date: "6/1/2018"
-output: 
-  powerpoint_presentation:
-    reference_doc: template.potx
+output: ppt::ppt_rstudio
 ---
 
 ```{r setup, include=FALSE}
